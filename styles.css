@@ -38,3 +38,36 @@
   background-color: teal;
   margin: 5px 0px 5px 0px;
 }
+
+/*Photos*/
+
+.pic1 {
+  display: inline-block;
+  margin
+}
+
+.pic2 {
+  display: inline-block;
+}
+
+.pic3 {
+  display: inline-block;
+}
+
+.pic4 {
+  display: inline-block;
+}
+
+.pic5 {
+  display: inline-block;
+}
+
+.pic6 {
+  display: inline-block;
+}
+
+.picedit {
+  text-align: center;
+  background-color: yellow;
+  margin: 0px 0px 5px 0px;
+}
