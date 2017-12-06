@@ -45,21 +45,24 @@
   text-decoration: underline;
   text-decoration-color: gold;
 }
+
 /*Photos*/
 
 .pic {
   display: inline-block;
   width: 33%;
+  margin-bottom: -3px;
+  margin-top: 5px;
 }
 
 .pic img {
-  width: 100%
+  width: 100%;
 }
 
 .picedit {
   text-align: center;
   background-color: gold;
-  margin: 0px 0px 5px 0px;
+  margin: 0px 0px 3px 0px;
 }
 
 .copyright {
@@ -73,4 +76,5 @@
   margin: 0px;
   padding-top: 20px;
   padding-bottom: 20px;
+  font-size: 13.5px;
 }
