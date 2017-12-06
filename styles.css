@@ -1,0 +1,40 @@
+
+
+/** {
+  font-family: garamond, cursive, sans-serif;
+  margin: 0px;
+}*/
+
+/*Header and Nav*/
+
+.title {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+.nav ul {
+  list-style-type: none;
+  text-align: center;
+  margin: 0px;
+}
+
+.nav li {
+  background-color: grey;
+  display: inline-block;
+  padding: 5px;
+  margin: 1px 0px 1px 0px;
+}
+
+.nav a {
+  text-decoration: none;
+  color: white;
+}
+
+.sixphoto h2{
+  background-color: teal;
+  margin: 5px 0px 5px 0px;
+}
