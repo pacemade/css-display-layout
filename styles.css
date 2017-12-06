@@ -37,37 +37,40 @@
 .sixphoto h2{
   background-color: teal;
   margin: 5px 0px 5px 0px;
+  padding: 10px 10px;
+  font-size: 24px;
 }
 
+.sixphoto b {
+  text-decoration: underline;
+  text-decoration-color: gold;
+}
 /*Photos*/
 
-.pic1 {
+.pic {
   display: inline-block;
-  margin
+  width: 33%;
 }
 
-.pic2 {
-  display: inline-block;
-}
-
-.pic3 {
-  display: inline-block;
-}
-
-.pic4 {
-  display: inline-block;
-}
-
-.pic5 {
-  display: inline-block;
-}
-
-.pic6 {
-  display: inline-block;
+.pic img {
+  width: 100%
 }
 
 .picedit {
   text-align: center;
-  background-color: yellow;
+  background-color: gold;
   margin: 0px 0px 5px 0px;
+}
+
+.copyright {
+  background-color: black;
+  margin: 12px 0px 0px 0px;
+}
+
+.copyright p {
+  text-align: center;
+  color: white;
+  margin: 0px;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
